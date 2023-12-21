@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K.ARUN KUMAR REDDY
-- 👀 I’m interested in to start a business
-- 🌱 I’m currently learning AWS DEVOPS
+- 👀 I’m actively seeking a job
+- 🌱 I’m done course on AWS DEVOPS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
